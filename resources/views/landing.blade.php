@@ -55,7 +55,7 @@
             </div>
         </div>
         <video autoplay="" loop="" muted>
-            <source src="PROFIL DINAS ARSIP DAN PERPUSTAKAAN KOTA SEMARANG.mp4" type="video/mp4" />
+            <source src="assets/PROFIL DINAS ARSIP DAN PERPUSTAKAAN KOTA SEMARANG.mp4" type="video/mp4" />
         </video>
     </div>
 
